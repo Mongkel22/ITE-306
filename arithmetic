@@ -1,0 +1,10 @@
+num1 = 5
+num2 = 8
+sum = num1 + num2
+DIFFERENCE = num1 - num2
+PRODUCT = num1 * num2
+QUOTIENT = num1 / num2
+print("SUM = {0}".format(sum))
+print("DIFFERENCE = {0}".format(DIFFERENCE))
+print("PRODUCT = {0}".format(PRODUCT))
+print("QUOTIENT  = {0}".format(QUOTIENT))
